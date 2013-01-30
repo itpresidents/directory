@@ -9,5 +9,5 @@ Ruby script to parse a CSV of student directory information and download images.
 ### Options:
 
 - `-y XXXX` : Specify a year
-- `-w XXXX` : Integer value for width of images
-- `-h XXXX` : Integer value for height of images
+- `-w XXXX` : Integer value for width of images, defaults to 200
+- `-h XXXX` : Integer value for height of images, defaults to 300
