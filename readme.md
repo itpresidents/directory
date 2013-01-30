@@ -1,5 +1,7 @@
 # ITP Images Downloader
 
+Ruby script to parse a CSV of student directory information and download images. You will need a csv of the data, get this from a resident.
+
 ## Usage:
 
     $ ruby save_images.rb PATH_TO_CSV
